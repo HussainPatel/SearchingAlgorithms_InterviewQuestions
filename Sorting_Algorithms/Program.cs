@@ -8,16 +8,25 @@ namespace Sorting_Algorithms
         {
             Console.WriteLine("Hello World!");
 
+            #region "Selection Sort"
+            //int[] arr = new int[] { 4, 6, 5, 3, 9, 2, 1, 7, 8, 0 };
 
-            int[] arr = new int[] { 4, 6, 5, 3, 9, 2, 1, 7, 8, 0 };
+            //Display(arr);
+            //Selection_Sort.SelectionSort(arr);
+            //Console.WriteLine();
+            //Display(arr);
+            #endregion
+
+            #region "Insertion Sort"
+
+            int[] arr = new int[] { 3, 5, 8, 6, 9, 2 };
 
             Display(arr);
-            Selection_Sort.SelectionSort(arr);
-
+            Insertion_Sort.Sort(arr);
             Console.WriteLine();
-
             Display(arr);
 
+            #endregion
             Console.Read();
         }
 
