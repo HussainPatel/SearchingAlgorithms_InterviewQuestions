@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphsDemo", "GraphsDemo\Gr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables_Demos", "HashTables_Demos\HashTables_Demos.csproj", "{8A52A8AC-823A-4534-90B5-D46508636BA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks_Demo", "Stacks_Demo\Stacks_Demo.csproj", "{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8A52A8AC-823A-4534-90B5-D46508636BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A52A8AC-823A-4534-90B5-D46508636BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A52A8AC-823A-4534-90B5-D46508636BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
