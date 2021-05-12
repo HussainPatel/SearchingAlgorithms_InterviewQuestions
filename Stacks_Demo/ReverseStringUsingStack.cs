@@ -27,5 +27,21 @@ namespace Stacks_Demo
 
             Console.WriteLine(string.Join("",ch));
         }
+
+        public static String ReverseIterative(String input)
+        {
+            char[] temparray = input.ToCharArray();
+            int left, right = 0;
+            right = temparray.Length - 1;
+
+            for (left = 0; left < right; left++, right--)
+            {
+                // Swap values of left and right
+                char temp = temparray[left];
+                temparray[left] = temparray[right];
+                temparray[right] = temp;
+            }
+            return String.Join("", temparray);
+        }
     }
 }

@@ -15,7 +15,7 @@ namespace GraphsDemo
         }
 
 
-        public void insertEdige(int u, int v, int weight = 1)     
+        public void insertEdge(int u, int v, int weight = 1)     
         {
 
             adjMat[u, v] = weight;
