@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables_Demos", "HashTab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks_Demo", "Stacks_Demo\Stacks_Demo.csproj", "{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues_Demo", "Queues_Demo\Queues_Demo.csproj", "{47A03E41-B903-4703-8338-D2D05F406551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facebookrecruiting_coding_practice_questions", "facebookrecruiting_coding_practice_questions\facebookrecruiting_coding_practice_questions.csproj", "{C0E74797-4D63-409D-9439-9D585A167335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F6B91CC-B6B8-4674-9C22-ECD00387ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A03E41-B903-4703-8338-D2D05F406551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A03E41-B903-4703-8338-D2D05F406551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A03E41-B903-4703-8338-D2D05F406551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A03E41-B903-4703-8338-D2D05F406551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E74797-4D63-409D-9439-9D585A167335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E74797-4D63-409D-9439-9D585A167335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E74797-4D63-409D-9439-9D585A167335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E74797-4D63-409D-9439-9D585A167335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
